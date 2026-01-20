@@ -1,0 +1,45 @@
+/* IMPORTANT FIX */
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+
+  /* FULL SCREEN pink + white background */
+  background: linear-gradient(
+    to bottom,
+    #ffe6f0,
+    #fff0f5,
+    #ffffff
+  );
+}
+
+/* Basket */
+.basket {
+  position: fixed;
+  bottom: 20px;
+  left: 50px;
+  font-size: 50px;
+  user-select: none;
+  z-index: 10;
+}
+
+/* Hearts */
+.heart {
+  position: fixed;
+  top: 0;
+  font-size: 28px;
+  z-index: 5;
+}
+
+/* Score */
+.score {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  font-size: 18px;
+  color: #ff4d88;
+  font-weight: bold;
+  z-index: 10;
+}
