@@ -1,4 +1,4 @@
-# Basket Heart Game ❤️🧺
+# Basket Heart Game 
 
 A simple browser-based game where users move a basket to catch falling hearts.  
 This game helps improve **hand-eye coordination, reflexes, and focus** while providing a **fun and engaging experience**.
